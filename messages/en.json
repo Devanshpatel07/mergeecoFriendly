@@ -1,0 +1,162 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About Us",
+    "factory": "Our Factory",
+    "contact": "Contact Us",
+    "orderNow": "Order Now",
+    "langToggle": "हिन्दी"
+  },
+  "hero": {
+    "badge": "Women-Led Manufacturing • Bhopal, India",
+    "headline": "Sustainable Choices, Greener Future",
+    "subtext": "Manufactured with pride in Bhopal by local women. Food-grade disposable paper cups, natural cold-process soaps, and hand-poured soy wax candles for homes, cafés, and wholesale businesses.",
+    "shopBtn": "Explore Products",
+    "instaBtn": "Order on Instagram",
+    "whatsappBtn": "WhatsApp Inquiry",
+    "stats": {
+      "cups": "100% Food-Grade",
+      "plasticFree": "Zero Plastic",
+      "local": "Handmade in Bhopal",
+      "community": "Women-Operated"
+    }
+  },
+  "badges": {
+    "plasticFree": "Plastic-Free",
+    "recyclable": "100% Recyclable",
+    "handmadeBhopal": "Handmade in Bhopal",
+    "womenLed": "Women-Led Enterprise",
+    "foodGrade": "Food-Grade Certified",
+    "comingSoon": "Coming Soon"
+  },
+  "categories": {
+    "title": "Our Product Categories",
+    "subtitle": "Mindfully crafted everyday essentials for sustainable hospitality and conscious living.",
+    "cups": {
+      "title": "Disposable Paper Cups",
+      "desc": "Food-grade cups for tea, coffee, and water, engineered for zero leakage and thermal comfort.",
+      "cta": "View Paper Cups"
+    },
+    "soaps": {
+      "title": "Handmade Natural Soaps",
+      "desc": "Cold-process bars cured for 4 weeks with neem, coffee, raw honey, and skin-loving botanicals.",
+      "cta": "View Natural Soaps"
+    },
+    "candles": {
+      "title": "Handmade Soy Candles",
+      "desc": "100% soy wax candles hand-poured with aromatherapy essential oils and clean cotton wicks.",
+      "cta": "View Soy Candles"
+    }
+  },
+  "featured": {
+    "badge": "Primary Manufactured Product",
+    "title": "The 250 ml Paper Cup",
+    "subtitle": "The dependable, leak-proof paper cup chosen by caterers, offices, and tea stalls across central India.",
+    "trueSizeLabel": "True Size Comparison",
+    "trueSizeDesc": "Calibrated to standard tea & coffee servings. 92mm height with comfortable palm grip.",
+    "specTitle": "Product Specifications",
+    "packSizesTitle": "Available Pack Sizes",
+    "moqLabel": "Minimum Order Quantity",
+    "orderWhatsapp": "Order on WhatsApp",
+    "orderInstagram": "Order on Instagram"
+  },
+  "women": {
+    "badge": "Empowering Local Livelihoods",
+    "title": "Made by the Women of Bhopal",
+    "subtitle": "Every paper cup formed and every bar of soap cured creates dignifying employment and skill development for women in our community.",
+    "founderTitle": "Founder's Vision",
+    "readMore": "Read Our Story"
+  },
+  "factory": {
+    "badge": "Manufacturing & Standards",
+    "title": "Our Factory & Machinery",
+    "subtitle": "Combining high-speed automated forming precision with rigorous hygiene and quality inspection.",
+    "processTitle": "4-Stage Manufacturing Process",
+    "steps": {
+      "1": { "name": "Raw Materials", "desc": "Virgin food-grade certified paper reels and pure botanical oils." },
+      "2": { "name": "Manufacturing", "desc": "High-speed automated cup forming and small-batch soap curing." },
+      "3": { "name": "Quality Checks", "desc": "Boiling temperature leak tests and rim stress assessments." },
+      "4": { "name": "Hygienic Packaging", "desc": "Moisture-sealed carton packaging for local and national transit." }
+    },
+    "videoTitle": "Watch Our Factory in Action",
+    "videoDesc": "See how our women-led team manufactures eco-friendly paper cups in Bhopal."
+  },
+  "why": {
+    "badge": "Why Partner With Us",
+    "title": "Why Choose Merge Eco-Friendly?",
+    "subtitle": "Reliable supply, genuine sustainability, and uncompromising quality for your business.",
+    "cards": {
+      "1": { "title": "Eco-Friendly Products", "desc": "Say goodbye to single-use plastic with biodegradable paper and organic ingredients." },
+      "2": { "title": "Consistent Quality", "desc": "Ultrasonic sealing ensures every 250ml cup delivers zero sogginess and zero leakage." },
+      "3": { "title": "Diverse Product Range", "desc": "From daily beverage disposables to artisan personal care and gifting items." },
+      "4": { "title": "Wholesale & Bulk Supply", "desc": "Flexible order slabs, reliable delivery schedules, and custom branding options." },
+      "5": { "title": "Customer-First Support", "desc": "Direct WhatsApp assistance, transparent billing, and dedicated order tracking." }
+    }
+  },
+  "wholesale": {
+    "badge": "B2B & Bulk Inquiries",
+    "title": "Power Your Business With Sustainable Disposables",
+    "subtitle": "Supplying cafes, restaurants, hotels, wedding caterers, and corporate offices with custom-printed or plain paper cups at wholesale factory rates.",
+    "cta": "Request Wholesale Quote",
+    "callCta": "Call +91 93037 44922"
+  },
+  "reviews": {
+    "badge": "Customer Testimonials",
+    "title": "Trusted by Businesses & Homes",
+    "subtitle": "Hear what tea vendors, café owners, and mindful consumers say about Merge Eco-Friendly."
+  },
+  "instagram": {
+    "badge": "Connect on Social Media",
+    "title": "Follow Our Daily Journey",
+    "handle": "@mergeecofriendlypvtltd",
+    "subtitle": "Behind-the-scenes at our factory, artisan creations, and customer stories.",
+    "followBtn": "View Profile on Instagram"
+  },
+  "howToOrder": {
+    "badge": "Simple & Fast",
+    "title": "How to Order in 4 Easy Steps",
+    "subtitle": "We make ordering seamless through WhatsApp and direct messaging.",
+    "steps": {
+      "1": { "title": "1. Choose Products", "desc": "Select your paper cups, soaps, or candles from our catalog." },
+      "2": { "title": "2. Message Us", "desc": "Tap 'Order on WhatsApp' or Instagram with prefilled quantities." },
+      "3": { "title": "3. Confirm & Pay", "desc": "Receive instant quote, confirm order, and pay securely via UPI." },
+      "4": { "title": "4. Fast Delivery", "desc": "Quick local dispatch in Bhopal or express shipping pan-India." }
+    }
+  },
+  "quote": {
+    "badge": "Quick Inquiry",
+    "title": "Request a Quote",
+    "subtitle": "Tell us your requirements and our team will get back to you within 2 hours.",
+    "name": "Full Name",
+    "business": "Business / Organization Name (Optional)",
+    "phone": "Phone / WhatsApp Number",
+    "email": "Email Address (Optional)",
+    "category": "Product Category",
+    "quantity": "Estimated Quantity",
+    "message": "Message / Specific Requirements",
+    "submit": "Submit Quote Request",
+    "sending": "Submitting Inquiry...",
+    "success": "Thank you! Your inquiry has been recorded. Tap below to send it directly on WhatsApp for an immediate response.",
+    "openWhatsapp": "Continue on WhatsApp"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "addressTitle": "Factory & Office Address",
+    "address": "Shop No. 362 B, E8, Trilanga, Shahpura, Bhopal, Madhya Pradesh, India",
+    "phoneTitle": "Phone & WhatsApp",
+    "emailTitle": "Email Address",
+    "hoursTitle": "Operating Hours",
+    "hours": "Monday - Sunday: 10:00 AM - 8:00 PM"
+  },
+  "footer": {
+    "tagline": "Sustainable Choices, Greener Future",
+    "description": "Merge Eco-Friendly Pvt. Ltd. is a women-led manufacturing enterprise based in Bhopal, MP, delivering certified food-grade paper cups, handmade natural soaps, and soy wax candles.",
+    "quickLinks": "Quick Links",
+    "products": "Products",
+    "legal": "Legal & Compliance",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "rights": "All Rights Reserved."
+  }
+}

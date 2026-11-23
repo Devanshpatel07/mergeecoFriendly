@@ -1,0 +1,50 @@
+[
+  {
+    "id": "rev-1",
+    "author": "Rajesh Malviya",
+    "business": "Bhopal Tea Traders & Caterers",
+    "role": "Wholesale Buyer",
+    "rating": 5,
+    "date": "October 2026",
+    "content": {
+      "en": "We ordered 20,000 units of the 250 ml paper cups for wedding catering across MP. Outstanding rim strength, zero leakage even with steaming hot chai, and our clients loved the plastic-free branding.",
+      "hi": "हमने एमपी में कैटरिंग के लिए 20,000 पीस 250 मिली पेपर कप ऑर्डर किए। बेहतरीन मजबूती, खौलती चाय में भी कोई रिसाव नहीं और ग्राहकों ने इसे खूब सराहा।"
+    }
+  },
+  {
+    "id": "rev-2",
+    "author": "Dr. Meenakshi Dubey",
+    "business": "Shahpura, Bhopal",
+    "role": "Regular Customer",
+    "rating": 5,
+    "date": "September 2026",
+    "content": {
+      "en": "The Neem & Tulsi soap completely eliminated my monsoon skin breakouts. Knowing it is handmade right here in Bhopal by local women makes it even more special.",
+      "hi": "नीम और तुलसी साबुन ने मेरी त्वचा की सभी समस्याएं दूर कर दीं। यह जानकर कि यह भोपाल की महिलाओं द्वारा हाथ से बनाया गया है, यह और भी खास लगता है।"
+    }
+  },
+  {
+    "id": "rev-3",
+    "author": "Amit Sengupta",
+    "business": "The Green Leaf Café",
+    "role": "Café Owner",
+    "rating": 5,
+    "date": "November 2026",
+    "content": {
+      "en": "Switching from plastic-coated disposables to Merge Eco-Friendly cups reduced our cafe's waste footprint drastically. Prompt WhatsApp support and fast local Bhopal dispatch.",
+      "hi": "मर्ज इको-फ्रेंडली कपों को अपनाने से हमारे कैफे का प्लास्टिक कचरा बहुत कम हो गया। व्हाट्सएप पर त्वरित सहायता और समय पर डिलीवरी।"
+    }
+  },
+  {
+    "id": "rev-4",
+    "author": "Priyanka Saxena",
+    "business": "Bhopal Eco Living Circle",
+    "role": "Home Maker",
+    "rating": 5,
+    "date": "November 2026",
+    "content": {
+      "en": "The soy wax aromatherapy candle smells heavenly. It burns clean for hours without soot. I ordered 10 boxes for Diwali gifting through their WhatsApp number directly.",
+      "hi": "सोया वैक्स अरोमाथेरेपी मोमबत्ती की सुगंध बहुत शांत और सुखद है। यह बिना किसी काले धुएं के घंटों जलती है। उपहार देने के लिए एकदम सही।"
+    }
+  }
+]

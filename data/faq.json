@@ -1,0 +1,62 @@
+[
+  {
+    "id": "faq-1",
+    "category": "cups",
+    "question": {
+      "en": "Are your 250 ml paper cups safe for hot tea and boiling coffee?",
+      "hi": "क्या आपके 250 मिली पेपर कप गर्म चाय और कॉफी के लिए सुरक्षित हैं?"
+    },
+    "answer": {
+      "en": "Yes, absolutely. Our 250 ml paper cups are crafted from certified virgin food-grade paperboard with ultrasonic heat-sealing. They can withstand temperatures up to 95°C without leaking, softening, or emitting any odors.",
+      "hi": "हाँ, बिल्कुल। हमारे 250 मिली पेपर कप प्रमाणित वर्जिन फूड-ग्रेड पेपरबोर्ड से बने हैं और 95°C तक के तापमान को बिना किसी रिसाव या गंध के झेल सकते हैं।"
+    }
+  },
+  {
+    "id": "faq-2",
+    "category": "wholesale",
+    "question": {
+      "en": "What is the Minimum Order Quantity (MOQ) for wholesale & custom printing?",
+      "hi": "थोक एवं कस्टम प्रिंटिंग के लिए न्यूनतम ऑर्डर मात्रा (MOQ) क्या है?"
+    },
+    "answer": {
+      "en": "For standard unprinted 250 ml cups, MOQ is 500 cups in Bhopal and 5,000 cups for outstation transport. For custom logo branding on paper cups, the minimum run is 10,000 units. Please reach out via WhatsApp for custom quote slabs.",
+      "hi": "भोपाल में मानक कप के लिए न्यूनतम ऑर्डर 500 पीस है और बाहर के लिए 5,000 पीस। कस्टम लोगो प्रिंटिंग के लिए 10,000 पीस का न्यूनतम ऑर्डर है।"
+    }
+  },
+  {
+    "id": "faq-3",
+    "category": "soaps",
+    "question": {
+      "en": "What makes your handmade soaps different from commercial bars?",
+      "hi": "आपके हस्तनिर्मित साबुन बाजार के सामान्य साबुनों से कैसे अलग हैं?"
+    },
+    "answer": {
+      "en": "Unlike commercial bars that strip natural glycerin and use synthetic detergents (SLS/parabens), our soaps are made using the traditional cold-process method with virgin coconut oil, cold-pressed neem, and forest honey, cured naturally for 4 full weeks.",
+      "hi": "हमारे साबुन पारंपरिक कोल्ड-प्रोसेस विधि से 100% प्राकृतिक तेलों, नीम और वन शहद से बनते हैं। इनमें कोई हानिकारक रसायन, एसएलएस या पैराबेन नहीं होता।"
+    }
+  },
+  {
+    "id": "faq-4",
+    "category": "general",
+    "question": {
+      "en": "How can I order and what payment modes are accepted?",
+      "hi": "मैं ऑर्डर कैसे कर सकता हूँ और भुगतान के कौन से तरीके स्वीकार किए जाते हैं?"
+    },
+    "answer": {
+      "en": "Ordering is seamless! Simply tap 'Order on WhatsApp' or 'Order on Instagram' on any product, or fill out our Quote Form. We confirm specifications, generate an invoice, and accept direct UPI (Google Pay, PhonePe, Paytm) and NEFT/RTGS bank transfers.",
+      "hi": "ऑर्डर करना बहुत आसान है! किसी भी उत्पाद पर 'Order on WhatsApp' पर टैप करें। हम विवरण की पुष्टि करते हैं और UPI (Google Pay, PhonePe) या बैंक ट्रांसफर के जरिए भुगतान स्वीकार करते हैं।"
+    }
+  },
+  {
+    "id": "faq-5",
+    "category": "general",
+    "question": {
+      "en": "Do you deliver outside Bhopal across India?",
+      "hi": "क्या आप भोपाल के बाहर पूरे भारत में डिलीवरी करते हैं?"
+    },
+    "answer": {
+      "en": "Yes! We offer local same-day/next-day delivery in Bhopal and ship consignments nationwide across India via trusted express logistics partners.",
+      "hi": "हाँ! हम भोपाल में उसी दिन या अगले दिन डिलीवरी करते हैं और पूरे भारत में एक्सप्रेस लॉजिस्टिक्स पार्टनर्स के माध्यम से माल भेजते हैं।"
+    }
+  }
+]

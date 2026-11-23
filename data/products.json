@@ -1,0 +1,672 @@
+[
+  {
+    "slug": "250ml-paper-cup",
+    "category": "cups",
+    "name": {
+      "en": "250 ml Food-Grade Paper Cup",
+      "hi": "250 मिली फूड-ग्रेड पेपर कप"
+    },
+    "shortDescription": {
+      "en": "Premium leak-proof disposable paper cup for hot tea, filter coffee, and drinking water. Made from virgin food-grade paper.",
+      "hi": "गर्म चाय, फिल्टर कॉफी और पीने के पानी के लिए प्रीमियम लीक-प्रूफ पेपर कप। वर्जिन फूड-ग्रेड पेपर से निर्मित।"
+    },
+    "description": {
+      "en": "Our primary manufactured product, the 250 ml paper cup is engineered for cafés, corporate cafeterias, tea stalls, restaurants, and catering services across Madhya Pradesh and India. Made with certified virgin food-grade paper, ultrasonic seam sealing, and reinforced bottom curling for superior thermal comfort and zero-leak performance.",
+      "hi": "हमारा मुख्य उत्पाद, 250 मिली पेपर कप कैफे, कॉर्पोरेट कैंटीन, चाय स्टॉल, रेस्तरां और खानपान सेवाओं के लिए विशेष रूप से तैयार किया गया है। प्रमाणित वर्जिन फूड-ग्रेड पेपर, अल्ट्रासोनिक सीलिंग और रिइन्फोर्स्ड बॉटम कर्लिंग के साथ शून्य-रिसाव सुनिश्चित करता है।"
+    },
+    "images": [
+      "/images/products/paper-cup-250ml.webp",
+      "/images/products/paper-cup-printed-designs.webp"
+    ],
+    "specs": {
+      "Capacity": "250 ml (approx. 8.5 oz)",
+      "Material": "Certified Virgin Food-Grade Paper (ITC / Century)",
+      "Lining": "Biodegradable PE barrier coating (<5% w/w, recyclable)",
+      "Height": "92 mm",
+      "Top Diameter": "75 mm",
+      "Bottom Diameter": "53 mm",
+      "Usage": "Hot Tea, Coffee, Cold Water, Juices, Soups",
+      "Thermal Resistance": "Up to 95°C without deformation",
+      "Origin": "Manufactured in Bhopal, Madhya Pradesh"
+    },
+    "sizes": [
+      "250 ml"
+    ],
+    "packSizes": [
+      "Pack of 50",
+      "Pack of 100",
+      "Master Carton of 1,000"
+    ],
+    "moq": "500 pieces for local Bhopal delivery; 5,000 for pan-India freight",
+    "price": "On Request (Wholesale Slab Available)",
+    "inStock": true,
+    "featured": true,
+    "comingSoon": false,
+    "badges": [
+      "Plastic-Free Alternative",
+      "100% Recyclable",
+      "Food-Grade Certified",
+      "Handmade in Bhopal"
+    ]
+  },
+  {
+    "slug": "150ml-paper-cup",
+    "category": "cups",
+    "name": {
+      "en": "150 ml Cutting Chai & Espresso Cup",
+      "hi": "150 मिली कटिंग चाय एवं एस्प्रेसो कप"
+    },
+    "shortDescription": {
+      "en": "Compact disposable paper cup tailored for traditional Indian cutting chai, espresso shots, and beverage samplers.",
+      "hi": "पारंपरिक कटिंग चाय, एस्प्रेसो और पेय सैंपलर के लिए कॉम्पैक्ट डिस्पोजेबल पेपर कप।"
+    },
+    "description": {
+      "en": "Currently in final tooling at our Bhopal factory. Specifically calibrated for quick-service tea vendors, kiosks, and corporate refreshment counters needing standard 150ml portions with eco-friendly credentials.",
+      "hi": "हमारी भोपाल फैक्ट्री में आगामी उत्पादन। चाय विक्रेताओं, कियोस्क और कॉर्पोरेट रिफ्रेशमेंट काउंटरों के लिए विशेष रूप से उपयुक्त।"
+    },
+    "images": [
+      "/images/products/paper-cup-150ml.webp"
+    ],
+    "specs": {
+      "Capacity": "150 ml (approx. 5 oz)",
+      "Material": "Virgin Food-Grade Paper",
+      "Height": "74 mm",
+      "Top Diameter": "65 mm",
+      "Bottom Diameter": "48 mm",
+      "Usage": "Cutting Chai, Espresso, Water dispensary"
+    },
+    "sizes": [
+      "150 ml"
+    ],
+    "packSizes": [
+      "Pack of 100",
+      "Master Carton of 1,000"
+    ],
+    "moq": "1,000 pieces",
+    "price": "Coming Soon",
+    "inStock": false,
+    "featured": false,
+    "comingSoon": true,
+    "badges": [
+      "Coming Soon",
+      "Food-Grade",
+      "Recyclable"
+    ]
+  },
+  {
+    "slug": "350ml-paper-cup",
+    "category": "cups",
+    "name": {
+      "en": "350 ml Large Beverage & Shake Cup",
+      "hi": "350 मिली लार्ज बेवरेज एवं शेक कप"
+    },
+    "shortDescription": {
+      "en": "High-volume disposable paper cup for cold coffee, thick shakes, smoothies, and large beverage orders.",
+      "hi": "कोल्ड कॉफी, शेक, स्मूदी और बड़े बेवरेज ऑर्डर के लिए उच्च क्षमता वाला पेपर कप।"
+    },
+    "description": {
+      "en": "Designed for modern beverage chains, juice bars, and cafes. Extra-rigid paper wall prevents condensation sogginess and provides thermal comfort for chilled and warm beverages alike.",
+      "hi": "आधुनिक बेवरेज चेन और कैफे के लिए डिज़ाइन किया गया। अतिरिक्त मजबूत पेपर वॉल ठंडे और गर्म दोनों पेयों के लिए उपयुक्त है।"
+    },
+    "images": [
+      "/images/products/paper-cup-350ml.webp"
+    ],
+    "specs": {
+      "Capacity": "350 ml (approx. 12 oz)",
+      "Material": "Heavy-Duty Food-Grade Paperboard",
+      "Height": "115 mm",
+      "Top Diameter": "80 mm",
+      "Bottom Diameter": "55 mm",
+      "Usage": "Cold Coffee, Milkshakes, Lassi, Jumbo Hot Chocolate"
+    },
+    "sizes": [
+      "350 ml"
+    ],
+    "packSizes": [
+      "Pack of 50",
+      "Master Carton of 1,000"
+    ],
+    "moq": "1,000 pieces",
+    "price": "Coming Soon",
+    "inStock": false,
+    "featured": false,
+    "comingSoon": true,
+    "badges": [
+      "Coming Soon",
+      "Heavy-Duty",
+      "Recyclable"
+    ]
+  },
+  {
+    "slug": "coffee-scrub-handmade-soap",
+    "category": "soaps",
+    "name": {
+      "en": "Artisanal Coffee Scrub Natural Soap",
+      "hi": "हस्तनिर्मित कॉफी स्क्रब प्राकृतिक साबुन"
+    },
+    "shortDescription": {
+      "en": "Invigorating cold-process exfoliating soap formulated with freshly ground Arabica coffee and virgin coconut oil.",
+      "hi": "ताजी पिसी अरेबिका कॉफी और वर्जिन नारियल तेल से बना स्फूर्तिदायक एक्सफ़ोलीएटिंग साबुन।"
+    },
+    "description": {
+      "en": "Handcrafted in small batches by our women artisans in Bhopal. Pure ground coffee acts as a gentle natural exfoliator that sloughs away dead skin cells and stimulates microcirculation, while coconut oil and castor oil leave skin deeply nourished, smooth, and supple.",
+      "hi": "भोपाल में हमारी महिला कारीगरों द्वारा छोटे बैचों में हस्तनिर्मित। प्राकृतिक पिसी हुई कॉफी त्वचा को एक्सफोलिएट करती है और नारियल तेल गहराई से पोषण देता है।"
+    },
+    "images": [
+      "/images/products/soap-coffee-scrub.webp"
+    ],
+    "specs": {
+      "Weight": "100 g (when packed)",
+      "Process": "Cold-Process Handmade (4-week cure)",
+      "Skin Type": "Normal, Oily, and Dry Body Skin",
+      "Shelf Life": "24 months from manufacturing",
+      "Packaging": "Plastic-free recycled seed paper / kraft box"
+    },
+    "weight": "100 g",
+    "ingredients": [
+      "Pure Cold-Pressed Coconut Oil",
+      "Saponified Olive Oil",
+      "Freshly Ground Arabica Coffee Beans",
+      "Raw Forest Honey",
+      "Pure Castor Oil",
+      "Distilled Water"
+    ],
+    "skinType": "All Skin Types, Excellent for Body Exfoliation",
+    "benefits": [
+      "Naturally removes dead skin cells without synthetic beads",
+      "Improves skin tone and reduces dullness",
+      "Deeply hydrates and locks in natural skin moisture",
+      "100% biodegradable and water-safe"
+    ],
+    "moq": "5 bars (Retail) / 50 bars (Wholesale)",
+    "price": "₹149",
+    "inStock": true,
+    "featured": true,
+    "comingSoon": false,
+    "badges": [
+      "100% Natural",
+      "Plastic-Free",
+      "Handmade in Bhopal",
+      "Cruelty-Free"
+    ]
+  },
+  {
+    "slug": "neem-tulsi-herbal-soap",
+    "category": "soaps",
+    "name": {
+      "en": "Neem & Tulsi Purifying Herbal Soap",
+      "hi": "नीम एवं तुलसी शोधक हर्बल साबुन"
+    },
+    "shortDescription": {
+      "en": "Therapeutic antibacterial soap infused with fresh organic neem leaf extract and wild holy basil (Tulsi).",
+      "hi": "ऑर्गेनिक नीम की पत्ती के अर्क और वन तुलसी से युक्त प्राकृतिक जीवाणुरोधी साबुन।"
+    },
+    "description": {
+      "en": "A revered Ayurvedic formulation handmade by Bhopal women artisans. Combines cold-pressed neem seed oil and freshly steeped tulsi extract to combat skin irritation, acne-causing bacteria, and environmental pollutants while preserving the skin's natural lipid barrier.",
+      "hi": "पारंपरिक आयुर्वेदिक फॉर्मूलेशन। नीम और तुलसी के प्राकृतिक औषधीय गुण त्वचा को संक्रमण और मुहांसों से बचाते हैं और त्वचा को स्वस्थ रखते हैं।"
+    },
+    "images": [
+      "/images/products/soap-neem-tulsi.webp"
+    ],
+    "specs": {
+      "Weight": "100 g (when packed)",
+      "Process": "Traditional Cold-Process",
+      "Skin Type": "Sensitive, Acne-Prone, Normal to Oily",
+      "Origin": "Handmade in Shahpura, Bhopal"
+    },
+    "weight": "100 g",
+    "ingredients": [
+      "Cold-Pressed Neem Seed Oil",
+      "Organic Tulsi (Holy Basil) Leaf Extract",
+      "Pure Virgin Coconut Oil",
+      "Mahua Oil (Responsibly sourced from MP forests)",
+      "Rosemary Essential Extract"
+    ],
+    "skinType": "Acne-prone, Sensitive, Oily skin",
+    "benefits": [
+      "Natural antibacterial and antifungal protection",
+      "Soothes itchiness, body blemishes, and irritation",
+      "Chemical-free, sulfate-free, and paraben-free"
+    ],
+    "moq": "5 bars",
+    "price": "₹139",
+    "inStock": true,
+    "featured": true,
+    "comingSoon": false,
+    "badges": [
+      "Ayurvedic Formula",
+      "Zero Chemicals",
+      "Plastic-Free",
+      "Women-Led"
+    ]
+  },
+  {
+    "slug": "shea-butter-honey-soap",
+    "category": "soaps",
+    "name": {
+      "en": "Raw Shea Butter & Forest Honey Soap",
+      "hi": "कच्चा शिया बटर एवं वन शहद साबुन"
+    },
+    "shortDescription": {
+      "en": "Ultra-moisturizing gentle soap combining raw unrefined shea butter with wild tribal forest honey.",
+      "hi": "कच्चे अनरिफाइंड शिया बटर और प्राकृतिक जंगली शहद से बना अत्यधिक मॉइस्चराइजिंग सौम्य साबुन।"
+    },
+    "description": {
+      "en": "Crafted for dry and sensitive skin. Raw African shea butter provides intense skin elasticity and barrier replenishment, while natural honey gathered from Madhya Pradesh forests acts as a gentle humectant, drawing moisture into skin cells.",
+      "hi": "शुष्क और संवेदनशील त्वचा के लिए विशेष। शिया बटर त्वचा को कोमल बनाता है और जंगली शहद नमी को बरकरार रखता है।"
+    },
+    "images": [
+      "/images/products/soap-shea-butter.webp"
+    ],
+    "specs": {
+      "Weight": "100 g",
+      "Process": "Gentle Cold-Process Cured Bar",
+      "Skin Type": "Dry, Mature, and Sensitive Skin"
+    },
+    "weight": "100 g",
+    "ingredients": [
+      "Unrefined Raw Shea Butter",
+      "Wild Forest Honey (Madhya Pradesh)",
+      "Cold-Pressed Almond Oil",
+      "Virgin Coconut Oil",
+      "Oat Milk Infusion"
+    ],
+    "skinType": "Dry, Sensitive, and Delicate skin",
+    "benefits": [
+      "Deeply restores skin elasticity and suppleness",
+      "Rich creamy lather that will not strip natural moisture",
+      "Fragrance-free and hypoallergenic"
+    ],
+    "moq": "5 bars",
+    "price": "₹159",
+    "inStock": true,
+    "featured": false,
+    "comingSoon": false,
+    "badges": [
+      "Ultra-Moisturizing",
+      "Tribal Forest Honey",
+      "Hypoallergenic"
+    ]
+  },
+  {
+    "slug": "activated-charcoal-detox-soap",
+    "category": "soaps",
+    "name": {
+      "en": "Activated Charcoal Detox Soap",
+      "hi": "एक्टिवेटेड चारकोल डिटॉक्स साबुन"
+    },
+    "shortDescription": {
+      "en": "Deep pore-cleansing bar with coconut shell activated charcoal and tea tree essential oil.",
+      "hi": "नारियल चारकोल और टी ट्री ऑयल से बना गहरी सफाई वाला डिटॉक्स साबुन।"
+    },
+    "description": {
+      "en": "Harnesses steam-activated coconut shell charcoal to absorb micro-dirt, excess sebum, and everyday urban grime without irritating delicate skin tissues. Infused with pure tea tree oil for clean, refreshed skin.",
+      "hi": "नारियल के छिलके से बना चारकोल रोमछिद्रों से गंदगी और अतिरिक्त तेल खींचता है, जिससे त्वचा तरोताजा महसूस करती है।"
+    },
+    "images": [
+      "/images/products/soap-charcoal.webp"
+    ],
+    "specs": {
+      "Weight": "100 g",
+      "Process": "Cold-Process Handcrafted",
+      "Skin Type": "Oily and Combination Skin"
+    },
+    "weight": "100 g",
+    "ingredients": [
+      "Coconut Shell Activated Charcoal",
+      "Australian Tea Tree Essential Oil",
+      "Cold-Pressed Sesame Oil",
+      "Virgin Coconut Oil"
+    ],
+    "skinType": "Oily, Combination, and Congested skin",
+    "benefits": [
+      "Draws out deep-seated pore impurities",
+      "Balances excess facial and body oils",
+      "Invigorating clean aroma"
+    ],
+    "moq": "5 bars",
+    "price": "₹149",
+    "inStock": true,
+    "featured": false,
+    "comingSoon": false,
+    "badges": [
+      "Deep Cleansing",
+      "Toxin-Free",
+      "Handcrafted in Bhopal"
+    ]
+  },
+  {
+    "slug": "soy-wax-aromatherapy-candle",
+    "category": "candles",
+    "name": {
+      "en": "Pure Soy Wax Aromatherapy Candle",
+      "hi": "शुद्ध सोया वैक्स अरोमाथेरेपी मोमबत्ती"
+    },
+    "shortDescription": {
+      "en": "Slow-burning natural soy candle infused with calming eucalyptus, lemongrass, and cedarwood oils.",
+      "hi": "नीलगिरी, लेमनग्रास और देवदार के तेल से युक्त प्राकृतिक सोया मोमबत्ती।"
+    },
+    "description": {
+      "en": "Hand-poured into reusable amber glass and terracotta vessels by our Bhopal women artisans. Crafted using 100% pure botanical soy wax with zero paraffin, lead-free unbleached cotton wicks, and pure essential oil blends for clean, soot-free room filling tranquility.",
+      "hi": "भोपाल की महिला कारीगरों द्वारा हाथ से ढाली गई। 100% शुद्ध सोया वैक्स, पैराफिन-मुक्त, लीड-फ्री कॉटन विक और शुद्ध एसेंशियल ऑयल्स से निर्मित।"
+    },
+    "images": [
+      "/images/products/candle-soy-aromatherapy.webp"
+    ],
+    "specs": {
+      "Wax Type": "100% Pure Botanical Soy Wax",
+      "Scent": "Eucalyptus, Lemongrass & Himalayan Cedarwood",
+      "Burn Time": "Approx. 35 to 40 hours",
+      "Size / Weight": "200 g wax fill",
+      "Vessel": "Reusable Amber Glass Jar with Cork Lid",
+      "Wick": "Lead-free unbleached braided cotton wick"
+    },
+    "waxType": "100% Pure Soy Wax (Paraffin-Free)",
+    "scent": "Eucalyptus & Lemongrass Refresh",
+    "burnTime": "35-40 Hours Clean Burn",
+    "sizes": [
+      "200 g Jar"
+    ],
+    "moq": "3 jars (Retail) / 30 jars (Gifting/Wholesale)",
+    "price": "₹349",
+    "inStock": true,
+    "featured": true,
+    "comingSoon": false,
+    "badges": [
+      "100% Soy Wax",
+      "Zero Paraffin",
+      "Clean Cotton Wick",
+      "Handmade in Bhopal"
+    ]
+  },
+  {
+    "slug": "lavender-vanilla-candle",
+    "category": "candles",
+    "name": {
+      "en": "Lavender Blossom & Warm Vanilla Candle",
+      "hi": "लैवेंडर ब्लॉसम एवं गर्म वैनिला मोमबत्ती"
+    },
+    "shortDescription": {
+      "en": "Serene evening candle combining authentic Kashmiri lavender with sweet Madagascar vanilla.",
+      "hi": "कश्मीरी लैवेंडर और मेडागास्कर वैनिला के शांत सुगंध वाली शाम की मोमबत्ती।"
+    },
+    "description": {
+      "en": "The perfect companion for bedtime unwind rituals, yoga sessions, or cozy reading corners. Made with non-toxic soy wax that burns evenly and cleanly, leaving no black smoke or chemical residue.",
+      "hi": "शाम के विश्राम, योग और अध्ययन के लिए आदर्श। नॉन-टॉक्सिक सोया वैक्स समान रूप से जलता है और कोई धुआं नहीं छोड़ता।"
+    },
+    "images": [
+      "/images/products/candle-lavender-vanilla.webp"
+    ],
+    "specs": {
+      "Wax Type": "Pure Botanical Soy Wax",
+      "Scent": "French Lavender Flower & Bourbon Vanilla",
+      "Burn Time": "30 to 35 hours",
+      "Size / Weight": "180 g",
+      "Vessel": "Frosted White Jar"
+    },
+    "waxType": "Pure Soy Wax",
+    "scent": "Lavender & Vanilla Bloom",
+    "burnTime": "30-35 Hours",
+    "sizes": [
+      "180 g Jar"
+    ],
+    "moq": "3 jars",
+    "price": "₹329",
+    "inStock": true,
+    "featured": false,
+    "comingSoon": false,
+    "badges": [
+      "Relaxing Aromatherapy",
+      "Clean Burn",
+      "Paraffin-Free"
+    ]
+  },
+  {
+    "slug": "sandalwood-forest-spices-candle",
+    "category": "candles",
+    "name": {
+      "en": "Sandalwood & Forest Spices Pillar Candle",
+      "hi": "चंदन एवं वन मसालेदार कैंडल"
+    },
+    "shortDescription": {
+      "en": "Deep meditative candle celebrating the indigenous woody aromas and earthy spices of central India.",
+      "hi": "मध्य भारत की सुगंधित लकड़ियों और मसालों से प्रेरित ध्यान लगाने वाली प्राकृतिक मोमबत्ती।"
+    },
+    "description": {
+      "en": "Blends Mysore sandalwood notes with cardamom and clove hints. Poured in small limited editions by the women team at Merge Eco-Friendly, bringing spiritual calm and warmth to festive and everyday gatherings.",
+      "hi": "मैसूर चंदन, इलायची और लौंग का संतुलित मिश्रण। भोपाल में सीमित संस्करणों में हस्तनिर्मित, जो घर में सकारात्मक ऊर्जा लाती है।"
+    },
+    "images": [
+      "/images/products/candle-sandalwood.webp"
+    ],
+    "specs": {
+      "Wax Type": "Soy & Natural Beeswax Blend",
+      "Scent": "Mysore Sandalwood, Cardamom & Clove",
+      "Burn Time": "45 hours",
+      "Size / Weight": "220 g Ceramic Cup",
+      "Vessel": "Handmade Glazed Terracotta / Ceramic Vessel"
+    },
+    "waxType": "Soy & Natural Beeswax Blend",
+    "scent": "Earthy Sandalwood & Spices",
+    "burnTime": "45 Hours",
+    "sizes": [
+      "220 g Ceramic"
+    ],
+    "moq": "3 units",
+    "price": "₹399",
+    "inStock": true,
+    "featured": false,
+    "comingSoon": false,
+    "badges": [
+      "Artisan Ceramic",
+      "Long Burning",
+      "Traditional Central India"
+    ]
+  },
+  {
+    "slug": "festive-modak-candles-set",
+    "category": "candles",
+    "name": {
+      "en": "Fluted Festive Modak Candles (Set of 4)",
+      "hi": "उत्सव मोदक मोमबत्ती (4 का सेट)"
+    },
+    "shortDescription": {
+      "en": "Traditional fluted modak festive candles hand-poured in soothing pastel shades with pure cotton wicks.",
+      "hi": "शुद्ध कॉटन विक के साथ पेस्टल रंगों में हस्तनिर्मित पारंपरिक मोदक उत्सव मोमबत्तियां।"
+    },
+    "description": {
+      "en": "Handcrafted with devotion by Bhopal women artisans, these modak-shaped candles bring warmth, auspicious blessings, and clean ambient light to Diwali, Ganesh Chaturthi, and festive home settings. Beautifully boxed on eco-friendly kraft packaging.",
+      "hi": "भोपाल की महिला कारीगरों द्वारा श्रद्धापूर्वक हस्तनिर्मित। मोदक के आकार की ये मोमबत्तियां दिवाली, गणेश चतुर्थी और त्योहारों पर घर में सकारात्मक ऊर्जा और प्रकाश लाती हैं।"
+    },
+    "images": [
+      "/images/products/candle-festive-modak.webp"
+    ],
+    "specs": {
+      "Wax Type": "100% Pure Botanical Soy & Beeswax Blend",
+      "Set Size": "Set of 4 Modak Candles (Assorted Pastel Colors)",
+      "Burn Time": "6-8 hours each",
+      "Packaging": "Kraft Gift Box with Dried Baby's Breath Accents"
+    },
+    "waxType": "Botanical Soy & Beeswax Blend",
+    "scent": "Subtle Sweet Vanilla & Cardamom",
+    "burnTime": "6-8 Hours each",
+    "sizes": [
+      "Set of 4"
+    ],
+    "moq": "2 sets",
+    "price": "₹299",
+    "inStock": true,
+    "featured": true,
+    "comingSoon": false,
+    "badges": [
+      "Handcrafted in Bhopal",
+      "Festive Edition",
+      "Eco-Friendly Kraft Box"
+    ]
+  },
+  {
+    "slug": "carved-ombre-peonies-candle",
+    "category": "candles",
+    "name": {
+      "en": "Artisan Carved Ombre Peonies Candle",
+      "hi": "कलात्मक नक्काशीदार ऑम्ब्रे पेओनी कैंडल"
+    },
+    "shortDescription": {
+      "en": "Intricately hand-sculpted peony blossoms in gradient rose, peach, and cream botanical wax.",
+      "hi": "गुलाबी, आड़ू और क्रीम रंगों में जटिल रूप से हाथ से तराशी गई पेओनी मोमबत्तियां।"
+    },
+    "description": {
+      "en": "Each petal is delicately carved by hand by our women artisans in Bhopal. A stunning centerpiece for decorative gifting, living spaces, and spa settings with a gentle floral aroma that lingers pleasantly.",
+      "hi": "भोपाल में हमारी महिला कारीगरों द्वारा प्रत्येक पंखुड़ी को नाजुक रूप से हाथ से तराशा गया है। उपहार और लिविंग रूम के लिए एक शानदार आकर्षण।"
+    },
+    "images": [
+      "/images/products/candle-ombre-peonies.webp"
+    ],
+    "specs": {
+      "Wax Type": "Pure Botanical Soy Wax",
+      "Dimensions": "8 cm diameter x 4.5 cm height",
+      "Burn Time": "15-18 hours",
+      "Scent": "English Rose & Pink Peony Bloom"
+    },
+    "waxType": "Pure Botanical Soy Wax",
+    "scent": "English Rose & Peony",
+    "burnTime": "15-18 Hours",
+    "sizes": [
+      "Single Blossom",
+      "Gift Duo"
+    ],
+    "moq": "2 units",
+    "price": "₹249",
+    "inStock": true,
+    "featured": true,
+    "comingSoon": false,
+    "badges": [
+      "100% Hand-Carved",
+      "Artisan Centerpiece",
+      "Paraffin-Free"
+    ]
+  },
+  {
+    "slug": "floating-lotus-ceramic-boat-candle",
+    "category": "candles",
+    "name": {
+      "en": "Floating Lotus Ceramic Boat Candle",
+      "hi": "फ्लोटिंग लोटस सिरेमिक बोट कैंडल"
+    },
+    "shortDescription": {
+      "en": "Vibrant sculpted red lotus candle nestled in an elegant handcrafted ceramic boat bowl.",
+      "hi": "सुंदर हस्तनिर्मित सिरेमिक बोट में सजी जीवंत लाल कमल मोमबत्ती।"
+    },
+    "description": {
+      "en": "Inspired by the serene lakes of Bhopal, this floating lotus candle features vivid red petals resting on a jade-toned wax pool inside a gilded ceramic boat vessel. Adds an instant aura of meditation and luxury.",
+      "hi": "भोपाल की शांत झीलों से प्रेरित, यह फ्लोटिंग कमल मोमबत्ती सिरेमिक बोट में सजी है और ध्यान व शांति का वातावरण बनाती है।"
+    },
+    "images": [
+      "/images/products/candle-floating-lotus.webp"
+    ],
+    "specs": {
+      "Vessel": "Handcrafted Glazed Ceramic Boat (Reusable)",
+      "Wax Type": "100% Pure Soy Wax",
+      "Burn Time": "25-30 hours",
+      "Scent": "Fresh Water Lotus & White Jasmine"
+    },
+    "waxType": "100% Pure Soy Wax",
+    "scent": "Water Lotus & Jasmine",
+    "burnTime": "25-30 Hours",
+    "sizes": [
+      "Ceramic Boat (20 cm)"
+    ],
+    "moq": "1 unit",
+    "price": "₹499",
+    "inStock": true,
+    "featured": false,
+    "comingSoon": false,
+    "badges": [
+      "Ceramic Keepsake",
+      "Handmade in Bhopal",
+      "Aromatherapy"
+    ]
+  },
+  {
+    "slug": "pastel-bubble-cube-candles-set",
+    "category": "candles",
+    "name": {
+      "en": "Pastel Bubble Cube Candles (Set of 4)",
+      "hi": "पेस्टल बबल क्यूब मोमबत्तियां (4 का सेट)"
+    },
+    "shortDescription": {
+      "en": "Chic contemporary geometric bubble candles in soothing lavender, sage green, blush peach, and cream.",
+      "hi": "लैवेंडर, सेज ग्रीन, पीच और क्रीम रंगों में आधुनिक ज्यामितीय बबल क्यूब मोमबत्तियां।"
+    },
+    "description": {
+      "en": "A modern aesthetic statement crafted from pure soy wax. Clean-burning, non-toxic, and smoke-free, these bubble cubes elevate coffee tables, bookshelves, and self-care vanity corners.",
+      "hi": "शुद्ध सोया वैक्स से निर्मित आधुनिक कलात्मक मोमबत्तियां। धुआं-रहित और सुरक्षित, जो कमरे की सुंदरता बढ़ाती हैं।"
+    },
+    "images": [
+      "/images/products/candle-bubble-cubes.webp"
+    ],
+    "specs": {
+      "Wax Type": "100% Organic Soy Wax",
+      "Cube Size": "6 cm x 6 cm x 6 cm each",
+      "Set Count": "4 Cube Candles",
+      "Burn Time": "10 hours each"
+    },
+    "waxType": "100% Organic Soy Wax",
+    "scent": "Vanilla Cashmere & White Tea",
+    "burnTime": "10 Hours each",
+    "sizes": [
+      "Set of 4"
+    ],
+    "moq": "1 set",
+    "price": "₹399",
+    "inStock": true,
+    "featured": false,
+    "comingSoon": false,
+    "badges": [
+      "Modern Aesthetic",
+      "Clean Burning",
+      "Lead-Free Wick"
+    ]
+  },
+  {
+    "slug": "garden-daisies-botanical-melts",
+    "category": "candles",
+    "name": {
+      "en": "Garden Daisies Botanical Wax Melts (Crate of 12)",
+      "hi": "गार्डन डेज़ी बॉटनिकल वैक्स मेल्ट्स (12 का क्रेट)"
+    },
+    "shortDescription": {
+      "en": "Colorful handcrafted daisy blossoms in a rustic wooden keepsake crate. Perfect as wax melts or festive decor.",
+      "hi": "लकड़ी के सुंदर क्रेट में सजी रंग-बिरंगी हस्तनिर्मित डेज़ी मोमबत्तियां।"
+    },
+    "description": {
+      "en": "Artisan-molded and hand-tinted in cheerful garden hues—sky blue, sunny yellow, petal pink, and sea green. Can be floated in water, used in aroma diffusers, or kept as natural scented decor.",
+      "hi": "सुंदर रंगों में हाथ से ढाली गई डेज़ी फूल। इन्हें पानी में तैराया जा सकता है, डिफ्यूज़र में इस्तेमाल किया जा सकता है या सजावट के रूप में रखा जा सकता है।"
+    },
+    "images": [
+      "/images/products/candle-garden-daisies.webp"
+    ],
+    "specs": {
+      "Quantity": "12 Flower Melts in Rustic Wood Crate",
+      "Wax Type": "Pure Botanical Soy Wax",
+      "Scent": "Fresh Wildflower Meadow",
+      "Crate Dimensions": "22 cm x 15 cm x 5 cm"
+    },
+    "waxType": "Pure Botanical Soy Wax",
+    "scent": "Wildflower Meadow",
+    "burnTime": "4-5 Hours per bloom",
+    "sizes": [
+      "Crate of 12"
+    ],
+    "moq": "1 crate",
+    "price": "₹449",
+    "inStock": true,
+    "featured": false,
+    "comingSoon": false,
+    "badges": [
+      "Wooden Keepsake Crate",
+      "Multi-Color Blooms",
+      "Handmade in Bhopal"
+    ]
+  }
+]

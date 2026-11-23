@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 90" width="100%" height="100%">
+  <defs>
+    <linearGradient id="goldH" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D49B44" />
+      <stop offset="100%" stop-color="#A56E1F" />
+    </linearGradient>
+  </defs>
+
+  <!-- Left Emblem (Scaled) -->
+  <g transform="translate(4, 5) scale(0.16)">
+    <circle cx="250" cy="250" r="240" fill="#2F5D3A" stroke="#D49B44" stroke-width="12" />
+    <circle cx="250" cy="250" r="222" fill="none" stroke="#D49B44" stroke-width="3" stroke-dasharray="4 4" />
+    <circle cx="250" cy="250" r="185" fill="none" stroke="#D49B44" stroke-width="4" />
+    <path d="M 185,190 L 198,335 C 198,340 235,344 250,344 C 265,344 282,340 282,335 L 295,190 Z" stroke="#D49B44" stroke-width="10" fill="#223829" />
+    <rect x="235" y="270" width="125" height="65" rx="28" stroke="#D49B44" stroke-width="10" fill="#1B2E21" />
+    <path d="M 265,310 Q 295,290 325,292 Q 305,318 265,310 Z" fill="#D49B44" />
+    <circle cx="325" cy="225" r="14" stroke="#D49B44" stroke-width="6" fill="none" />
+  </g>
+
+  <!-- Brand Typography -->
+  <text x="100" y="38" font-family="'Playfair Display', Georgia, serif" font-size="28" font-weight="900" fill="#2F5D3A" letter-spacing="1">MERGE</text>
+  <text x="215" y="38" font-family="'Poppins', sans-serif" font-size="16" font-weight="700" fill="#7BAE5A" letter-spacing="2">ECO-FRIENDLY</text>
+  <text x="375" y="38" font-family="'Poppins', sans-serif" font-size="11" font-weight="600" fill="#C9703F" letter-spacing="1">PVT. LTD.</text>
+
+  <line x1="100" y1="50" x2="520" y2="50" stroke="#E5DEC9" stroke-width="1.5" />
+  <circle cx="270" cy="50" r="3" fill="#C9703F" />
+
+  <text x="100" y="70" font-family="'Poppins', sans-serif" font-size="12" font-weight="500" fill="#5A5A5A" letter-spacing="0.5">Sustainable Choices, Greener Future</text>
+  <text x="390" y="70" font-family="'Poppins', sans-serif" font-size="10" font-weight="600" fill="#2F5D3A" letter-spacing="1">• BHOPAL, INDIA</text>
+</svg>

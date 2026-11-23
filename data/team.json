@@ -1,0 +1,62 @@
+{
+  "founderNote": {
+    "name": {
+      "en": "Leadership & Founding Vision",
+      "hi": "नेतृत्व और संस्थापक दृष्टि"
+    },
+    "title": {
+      "en": "Empowering Bhopal Women, Transforming Everyday Living",
+      "hi": "भोपाल की महिलाओं का सशक्तिकरण, टिकाऊ जीवनशैली की ओर कदम"
+    },
+    "message": {
+      "en": "At Merge Eco-Friendly Pvt. Ltd., our mission began with a simple question: why should everyday disposables and personal-care products generate lifelong plastic pollution when nature gives us renewable, responsible solutions? Headquartered in Trilanga, Bhopal, our manufacturing plant and artisan studios are owned and operated by women. We combine modern high-speed paper forming technology with age-old artisanal soapmaking and candle pouring, creating dignifying livelihood opportunities for local women while helping hospitality businesses transition to zero-plastic alternatives.",
+      "hi": "मर्ज इको-फ्रेंडली प्रा. लि. में हमारा मिशन एक सरल प्रश्न से शुरू हुआ: जब प्रकृति हमें पर्यावरण-अनुकूल विकल्प देती है तो रोजमर्रा के डिस्पोजेबल उत्पाद प्लास्टिक कचरा क्यों बनें? भोपाल के शाहपुरा-त्रिलंगा में स्थित हमारी यूनिट महिलाओं द्वारा संचालित है। हम आधुनिक हाई-स्पीड मशीनरी और पारंपरिक शिल्पकला को मिलाकर स्थानीय महिलाओं को सशक्त बनाते हैं।"
+    },
+    "image": "/images/team/team-founder.webp",
+    "location": "Bhopal, Madhya Pradesh"
+  },
+  "members": [
+    {
+      "id": "member-1",
+      "name": "Sunita Sharma",
+      "role": {
+        "en": "Senior Machine Operator (Paper Cup Division)",
+        "hi": "वरिष्ठ मशीन ऑपरेटर (पेपर कप प्रभाग)"
+      },
+      "quote": {
+        "en": "Operating the high-speed paper cup machine gave me financial independence for my children's education. Every cup that leaves our factory is a win for our families and the planet.",
+        "hi": "हाई-स्पीड पेपर कप मशीन चलाने से मुझे अपने बच्चों की शिक्षा के लिए वित्तीय स्वतंत्रता मिली। हमारे कारखाने से निकलने वाला प्रत्येक कप पर्यावरण की जीत है।"
+      },
+      "image": "/images/team/team-bhopal-artisans.webp",
+      "location": "Shahpura, Bhopal"
+    },
+    {
+      "id": "member-2",
+      "name": "Pooja Verma",
+      "role": {
+        "en": "Master Artisan (Soaps & Candles Studio)",
+        "hi": "मास्टर कारीगर (साबुन एवं मोमबत्ती स्टूडियो)"
+      },
+      "quote": {
+        "en": "We use pure cold-pressed oils, neem, and local forest honey. When customers tell us our soaps healed their sensitive skin, it brings immense pride to our artisan collective.",
+        "hi": "हम शुद्ध तेल, नीम और स्थानीय शहद का उपयोग करते हैं। जब ग्राहक बताते हैं कि हमारे साबुन से उनकी त्वचा स्वस्थ हुई, तो हमें बहुत गर्व होता है।"
+      },
+      "image": "/images/team/team-quality-inspectors.webp",
+      "location": "Trilanga, Bhopal"
+    },
+    {
+      "id": "member-3",
+      "name": "Aarti Malviya",
+      "role": {
+        "en": "Quality Assurance & Batch Controller",
+        "hi": "गुणवत्ता आश्वासन एवं बैच नियंत्रक"
+      },
+      "quote": {
+        "en": "From paper cup rim tightness tests to ensuring zero leakages with boiling tea, we inspect every carton rigorously before it gets packed.",
+        "hi": "कप के किनारों की मजबूती से लेकर उबलती चाय के रिसाव-रहित परीक्षण तक, हम हर कार्टन की कठोर जांच करते हैं।"
+      },
+      "image": "/images/team/team-bhopal-artisans.webp",
+      "location": "Bhopal, Madhya Pradesh"
+    }
+  ]
+}
